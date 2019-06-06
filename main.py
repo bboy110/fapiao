@@ -9,7 +9,7 @@ from question_dict import question_dict
 from wxpy import *
 import time
 
-
+print("as")
 correct_info = {
     '购方名称': '甘肃省水利水电勘测设计研究院',
     '购方纳税人识别号': '620102438002318'
